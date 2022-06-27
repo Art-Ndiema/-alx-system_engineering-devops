@@ -1,2 +1,2 @@
-#!/bin/bash:wq
-Hello, World
+#!/bin/bash
+echo -e "Hello, World"
